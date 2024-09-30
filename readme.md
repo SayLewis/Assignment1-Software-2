@@ -1,9 +1,21 @@
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/uwidcit/flaskmvc)
-<a href="https://render.com/deploy?repo=https://github.com/uwidcit/flaskmvc">
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/SayLewis/Assignment1-Software-2)
+<a href="https://render.com/deploy?repo=https://github.com/SayLewis/Assignment1-Software-2">
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 
 ![Tests](https://github.com/uwidcit/flaskmvc/actions/workflows/dev.yml/badge.svg)
+
+
+# Commands 
+  ```
+flask job add "Software Eng" "This person has to dev Sofwatre"
+flask job list 1
+flask job delete 1
+flask job view 1
+flask applicant add 1
+flask applicant view 1
+
+  ```
 
 # Flask MVC Template
 A template for flask applications structured in the Model View Controller pattern [Demo](https://dcit-flaskmvc.herokuapp.com/). [Postman Collection](https://documenter.getpostman.com/view/583570/2s83zcTnEJ)
